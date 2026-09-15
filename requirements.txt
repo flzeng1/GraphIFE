@@ -1,0 +1,9 @@
+# Install a PyTorch build appropriate for your platform before this file.
+numpy>=1.23
+PyYAML>=6.0
+scikit-learn>=1.0
+tensorboard>=2.10
+torch-geometric>=2.3
+torch-scatter
+torch-sparse
+tqdm>=4.64
